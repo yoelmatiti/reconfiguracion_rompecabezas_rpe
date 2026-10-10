@@ -1,0 +1,6 @@
+seed,epoch,objective,runtime_ms,feasible_constructions,best_found
+999888,0,42.000000,0.759579,1,true
+999889,0,42.000000,0.605145,1,false
+999890,0,42.000000,0.758363,1,false
+999891,0,42.000000,0.632555,1,false
+999892,0,42.000000,0.771505,1,false
